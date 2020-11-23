@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "647b3dbed95d6aef",
+    "type": "split",
+    "children": [
+      {
+        "id": "60141dd324625eae",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "noted_preface.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15fb06b98e8bbd19",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0fa7c5c6b5fd46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e050da16199791",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97a27f37ba2fc240",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f78231226dfc4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "01257362698d8277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4a4bb05f4156f56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "noted_preface.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "noted_preface.md"
+  ]
+}
