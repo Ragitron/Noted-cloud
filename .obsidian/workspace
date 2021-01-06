@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "noted_preface.md",
-            "mode": "source"
+            "file": "Home Searches/Kingsmill Street.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "noted_preface.md",
+                "file": "Home Searches/Kingsmill Street.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "noted_preface.md",
-    "Untitled.md"
+    "Home Searches/Kingsmill Street.md",
+    "Home Searches/High Street.md",
+    "Home Searches/Hamilton Road.md",
+    "Home Searches/Thomas Street.md",
+    "Untitled.md",
+    "Home Searches/Untitled.md",
+    "noted_preface.md"
   ]
 }
