@@ -2,6 +2,8 @@
 
 ## $350 pw
 
+**Inspected** - pass  
+
 [https://www.realestate.com.au/property-apartment-qld-brisbane+city-433389802](https://www.realestate.com.au/property-apartment-qld-brisbane+city-433389802)
 
 Contact  
