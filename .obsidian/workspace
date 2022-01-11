@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c55a93545ae3bf81",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Home Searches/2022/480 Charlotte Street.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "2e919c7e68b36c60",
         "type": "leaf",
         "state": {
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Searches/2022/480 Charlotte Street.md",
+                "file": "Home Searches/2022/500 Margaret Street.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c55a93545ae3bf81",
+  "active": "2e919c7e68b36c60",
   "lastOpenFiles": [
+    "Home Searches/2022/500 Margaret Street.md",
+    "Home Searches/2022/Margaret Street.md",
     "Home Searches/2022/480 Charlotte Street.md",
     "Home Searches/2022/490 Margaret Street.md",
-    "Home Searches/2022/500 Margaret Street.md",
     "Home Searches/2022/490 Queen Street.md",
     "Home Searches/2022/490 Mary Street.md",
     "Home Searches/2022/380 St Pauls Terrace.md",
     "Home Searches/2022/400 Exford Street.md",
     "Home Searches/2022/400 Albert Street 2nd.md",
-    "Home Searches/2022/350 North Quay 2nd.md",
-    "Home Searches/2022/335 Wickham Terrace.md"
+    "Home Searches/2022/350 North Quay 2nd.md"
   ]
 }

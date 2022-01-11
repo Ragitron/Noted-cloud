@@ -2,6 +2,8 @@
 
 ### $ 500 pw
 
+inspection: 15 01 2022 @ 1100 
+
 [https://www.realestate.com.au/property-unit-qld-brisbane+city-433497578](https://www.realestate.com.au/property-unit-qld-brisbane+city-433497578)
 
 [Song Properties](https://www.songproperties.com.au/)
