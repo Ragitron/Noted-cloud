@@ -8,6 +8,10 @@
 Jerry Christo  
 0431 201 122
 
+Inspection booked: 1445 on the 18th
+
+***
+
 Fully furnished SPACIOUS modern apartment Offering a large study or additional bedroom, perfect for the city executive, singles or couples, superbly Located a short walk to shopping boutiques, cafes, restaurants, the Queen Street mall, botanic gardens, Queensland university, public transport, this location meets all the requirements for a stylish & convenient inner-city lifestyle!  
   
 Features include:  
