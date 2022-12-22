@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "647b3dbed95d6aef",
+    "type": "split",
+    "children": [
+      {
+        "id": "539254c1cc016000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd989ba825d2416a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "No Papers No Person/IgarTarasyuk_DL_2021.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15fb06b98e8bbd19",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0fa7c5c6b5fd46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e050da16199791",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97a27f37ba2fc240",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f78231226dfc4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "01257362698d8277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4a4bb05f4156f56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "No Papers No Person/IgarTarasyuk_DL_2021.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd989ba825d2416a",
+  "lastOpenFiles": [
+    "No Papers No Person/IgarTarasyuk_EmploymentAgreement.pdf",
+    "No Papers No Person/IgarTarasyuk_License.pdf",
+    "Medicare/Medicare_Igar Tarasyuk.pdf",
+    "Loose/Hire a Hubby Reference.md",
+    "Loose/Gmail - Wotif travel confirmation - 21 Jan.pdf",
+    "Loose/2603_212_margaret_entry.pdf",
+    "Reading List/Reading List.md",
+    "Home Searches/Dethridge Street.md",
+    "Home Searches/Untitled.md",
+    "Untitled.md"
+  ]
+}
