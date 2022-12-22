@@ -11,9 +11,11 @@
             "id": "dd989ba825d2416a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "No Papers No Person/IgarTarasyuk_DL_2021.pdf"
+                "file": "Reading List/Reading List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "No Papers No Person/IgarTarasyuk_DL_2021.pdf",
+                "file": "Reading List/Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +97,7 @@
   },
   "active": "dd989ba825d2416a",
   "lastOpenFiles": [
+    "No Papers No Person/IgarTarasyuk_DL_2021.pdf",
     "No Papers No Person/IgarTarasyuk_EmploymentAgreement.pdf",
     "No Papers No Person/IgarTarasyuk_License.pdf",
     "Medicare/Medicare_Igar Tarasyuk.pdf",
@@ -103,7 +106,6 @@
     "Loose/2603_212_margaret_entry.pdf",
     "Reading List/Reading List.md",
     "Home Searches/Dethridge Street.md",
-    "Home Searches/Untitled.md",
-    "Untitled.md"
+    "Home Searches/Untitled.md"
   ]
 }
