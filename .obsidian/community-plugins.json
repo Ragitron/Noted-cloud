@@ -1,1 +1,10 @@
-[]
+[
+  "obsidian-excalidraw-plugin",
+  "obsidian-spaced-repetition",
+  "obsidian-epub-plugin",
+  "obsidian-pandoc",
+  "obsidian-extract-pdf-highlights",
+  "obsidian-html-plugin",
+  "big-calendar",
+  "dataview"
+]

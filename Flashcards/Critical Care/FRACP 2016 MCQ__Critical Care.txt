@@ -1,0 +1,7 @@
+#separator:tab
+#html:false
+Describe acute and chronic metabolic compensation in a respiratory acidosis	Acute: [HCO3] is increased by 1 mmol/liter for each Paco2 increase of 10 mm Hg above 40 mm Hg. Chronic [HCO3] is increased by 4–5 mmol/liter for each Paco2 increase of 10 mm Hg above 40 mm Hg
+Describe acute respiratory compensation in a metabolic acidosis	PaCO2 = [HCO3] + 15 mm Hg
+Describe the A-a Gradient	PAO2 = FiO2 x [Patm - Ph2o] - (PaCO2 / 0.8) thus PAO2 = FiO2 x [760-47] - (PaCO2 / 0.8).  Normal A-a gradient = (age+10)/4
+TestValueNormal pH7.227.35-7.45PaCO254 mmHg 35-45 mmHg [HCO3-]21 mEq/L 22-26 mEq/L	Mixed respiratory-metabolic acidosis
+Causes of non-anion gap metabolic acidosis	USEDCRAP    Ureteroenterostomies Small bowel fistula Excess Chloride Diarrhoea Carbonic anhydrase inhibitors Renal tubular acidosis Addisson’s disease Pancreatoenterostomies

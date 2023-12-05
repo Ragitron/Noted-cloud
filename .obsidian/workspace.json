@@ -1,39 +1,40 @@
 {
   "main": {
-    "id": "647b3dbed95d6aef",
+    "id": "1c24ad031b63df55",
     "type": "split",
     "children": [
       {
-        "id": "539254c1cc016000",
+        "id": "958762eabfa1be25",
         "type": "tabs",
         "children": [
           {
-            "id": "dd989ba825d2416a",
+            "id": "a793056d6458a97e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading List/Reading List.md",
-                "mode": "source",
-                "source": false
+                "file": "Tasks/Task Overview.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "15fb06b98e8bbd19",
+    "id": "d75d34832c3f62f6",
     "type": "split",
     "children": [
       {
-        "id": "fa0fa7c5c6b5fd46",
+        "id": "a68af0d5f48c86f2",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e050da16199791",
+            "id": "c50ac7f18ffaed8c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +44,12 @@
             }
           },
           {
-            "id": "97a27f37ba2fc240",
+            "id": "b62aa745061a4074",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#productivity/tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,28 +57,44 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "94345bec0a3fa483",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "413d54680b332bfe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "right": {
-    "id": "7f78231226dfc4d2",
+    "id": "c2b203247aff76e4",
     "type": "split",
     "children": [
       {
-        "id": "01257362698d8277",
+        "id": "cc2dc43afc0b15fd",
         "type": "tabs",
         "children": [
           {
-            "id": "f4a4bb05f4156f56",
+            "id": "c9a7df720b1ad2dc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading List/Reading List.md",
+                "file": "Tasks/Task Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,25 +104,118 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b11fd482f38a24c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tasks/Task Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19bbe2db1e22b170",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d59cf4f6c9fb944b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tasks/Task Overview.md"
+              }
+            }
+          },
+          {
+            "id": "9d1de8faf93c73b2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "dd989ba825d2416a",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "big-calendar:Big Calendar": false
+    }
+  },
+  "active": "c50ac7f18ffaed8c",
   "lastOpenFiles": [
-    "No Papers No Person/IgarTarasyuk_DL_2021.pdf",
-    "No Papers No Person/IgarTarasyuk_EmploymentAgreement.pdf",
-    "No Papers No Person/IgarTarasyuk_License.pdf",
-    "Medicare/Medicare_Igar Tarasyuk.pdf",
-    "Loose/Hire a Hubby Reference.md",
-    "Loose/Gmail - Wotif travel confirmation - 21 Jan.pdf",
-    "Loose/2603_212_margaret_entry.pdf",
-    "Reading List/Reading List.md",
-    "Home Searches/Dethridge Street.md",
-    "Home Searches/Untitled.md"
+    "House Hunting/2021/Rentstar Documents/IgarTarasyuk_SiteUnseen_Windor_LyonsTrce.pdf",
+    "House Hunting/2021/Rentstar Documents/IgarTarasyuk_SiteUnseen_Nundah_HamsonTrce.pdf",
+    "House Hunting/2021/Rentstar Documents/Sight Unseen Agreement - Copy.pdf",
+    "House Hunting/2021/Rentstar Documents/IgarTarasyuk_SiteUnseen_TEMPLATE.pdf",
+    "House Hunting/2021/Rentstar Documents/IgarTarasyuk_SiteUnseen_Nundah_UnionStpdf.pdf",
+    "House Hunting/2021/Images/Pasted image 20210119005853.png",
+    "House Hunting/2021/Images/Pasted image 20210119005617.png",
+    "House Hunting/2021/Images/Pasted image 20210108071256.png",
+    "House Hunting/2021/Images/Pasted image 20210108071113.png",
+    "House Hunting/2021/Images/Pasted image 20210108070617.png",
+    "House Hunting/2021/Images/Pasted image 20210108070055.png",
+    "House Hunting/2021/Images/Pasted image 20210108070330.png",
+    "House Hunting/2021/Images/Pasted image 20210107070703.png",
+    "House Hunting/2021/Images/Pasted image 20210107070738.png",
+    "House Hunting/2021/Images/Pasted image 20210107070553.png",
+    "House Hunting/2021/Thomas Street.md",
+    "House Hunting/2021/Rentstar Documents",
+    "House Hunting/2021/Rode Road.md",
+    "House Hunting/2021/Mylne Street.md",
+    "House Hunting/2021/Princess Street, Kangaroo Point.md",
+    "House Hunting/2021/James Street - Fortitude Valley.md",
+    "House Hunting/2021/Kingsmill Street.md",
+    "House Hunting/2021/High Street.md",
+    "House Hunting/2021/Images",
+    "House Hunting/2021/Hall Street.md",
+    "House Hunting/2021/Dethridge Street.md",
+    "House Hunting/2021/Hamilton Road.md",
+    "House Hunting/2021/Davenport Street.md",
+    "House Hunting/2021",
+    "House Hunting/2022/460 Margaret Street.md",
+    "House Hunting/2022/Images",
+    "House Hunting/2022/550 Margaret Street.md",
+    "House Hunting/2022/500 Margaret Street.md",
+    "House Hunting/2022/490 Mary Street.md",
+    "House Hunting/2022/490 Queen Street.md",
+    "House Hunting/2022/490 Margaret Street.md",
+    "House Hunting/2022/480b Margaret Street.md",
+    "House Hunting/2022/480 Parkland Boulevard.md",
+    "House Hunting/2022/480 Mary Street.md",
+    "House Hunting/2022/480 Margaret Street.md",
+    "House Hunting/2022/480 Charlotte Street.md",
+    "House Hunting/2022/480 Boundary Street.md",
+    "House Hunting/2022/475 Margaret Street.md",
+    "House Hunting/2022/360Trout Street.md",
+    "House Hunting/2022",
+    "Home Searches/Untitled",
+    "Untitled.canvas"
   ]
 }
