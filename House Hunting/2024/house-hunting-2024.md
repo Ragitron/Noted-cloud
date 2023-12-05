@@ -11,6 +11,7 @@ SORT inpect ASC
 
 - [ ] Find Rockhamptom place [due::2024-01-31] #important
 	- [ ] Create a shortlist of houses [due::2023-12-31]
+		I wonder, can I put little notes under theses tasks as long its indented?
 	- [ ] Have inspections organised [due::2024-01-02]
 		- [ ] Figure out how to inspect these places [due::2023-12-31]
 

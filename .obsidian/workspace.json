@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Task Overview.md",
+                "file": "Daily Notes/2023/12-Dec/2023-12-05.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Task Overview.md",
+                "file": "Daily Notes/2023/12-Dec/2023-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/Task Overview.md",
+                "file": "Daily Notes/2023/12-Dec/2023-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Task Overview.md"
+                "file": "Daily Notes/2023/12-Dec/2023-12-05.md"
               }
             }
           },
@@ -168,30 +168,42 @@
       "big-calendar:Big Calendar": false
     }
   },
-  "active": "c50ac7f18ffaed8c",
+  "active": "a793056d6458a97e",
   "lastOpenFiles": [
+    "Instapaper/2023/10-October/Why Culture Has Come to a Standstill - The New York Times.pdf",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech.html",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech - BBC Future.pdf",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/Ping.dotmetrics",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/idl.js.download",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/SiteEvent.dotmetrics",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/Ping(1).dotmetrics",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/Ping(2).dotmetrics",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43s0.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43nz.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43r9.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43xk.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43yx.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/setuid",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/cms-2-rubicon.min.js.download",
+    "Instapaper/2023/10-October/Here's the Truth about the 'Planned Obsolescence' of Tech.md",
+    "Reading List/Reading List.md",
+    "Tasks/Long-Term Tasks/This Year's Tasks.md",
+    "Daily Notes/2023/12-Dec/2023-12-05.md",
+    "Tasks/Task Overview.md",
+    "Tasks/Long-Term Tasks.md",
+    "Tasks/Next 6 Months.md",
+    "Tasks/Tasks This Month.md",
+    "Tasks/Check these Tasks.md",
+    "House Hunting/2024/house-hunting-2024.md",
+    "Daily Notes/2023/12-Dec/2023-12-04.md",
     "README.md",
     "Journal/Social-Calender/Phone Numbers.md",
-    "Journal/Social-Calender",
-    "Important Stuff/No Papers No Person/RACP/members.racp.edu.au.pdf",
-    "Important Stuff/No Papers No Person/RACP",
-    "Important Stuff/No Papers No Person/IgarTarasyuk_Payslip_072021.pdf",
-    "Important Stuff/No Papers No Person/IgarTarasyuk_Payslip_012022b.pdf",
-    "Important Stuff/No Papers No Person/IgarTarasyuk_Payslip_012022.pdf",
-    "Important Stuff/No Papers No Person/IgarTarasyuk_License.pdf",
-    "Important Stuff/No Papers No Person/IgarTarasyuk_EmploymentAgreement.pdf",
-    "Important Stuff/No Papers No Person/IgarTarasyuk_DL_2021.pdf",
-    "Important Stuff/No Papers No Person/IgarTarasyuk_Balance Confirmation.pdf",
     "House Hunting/2021/Images/Pasted image 20210119005853.png",
     "House Hunting/2021/Images/Pasted image 20210119005617.png",
     "House Hunting/2021/Images/Pasted image 20210108071256.png",
     "House Hunting/2021/Images/Pasted image 20210108071113.png",
     "House Hunting/2021/Images/Pasted image 20210108070617.png",
-    "House Hunting/2021/Images/Pasted image 20210108070055.png",
-    "House Hunting/2021/Images/Pasted image 20210108070330.png",
-    "House Hunting/2021/Images/Pasted image 20210107070703.png",
-    "House Hunting/2021/Images/Pasted image 20210107070738.png",
-    "House Hunting/2021/Images/Pasted image 20210107070553.png",
     "House Hunting/2021/Thomas Street.md",
     "House Hunting/2021/Rode Road.md",
     "House Hunting/2021/Mylne Street.md",
@@ -204,18 +216,6 @@
     "House Hunting/2021/Hamilton Road.md",
     "House Hunting/2021/Davenport Street.md",
     "House Hunting/2022/460 Margaret Street.md",
-    "House Hunting/2022/550 Margaret Street.md",
-    "House Hunting/2022/500 Margaret Street.md",
-    "House Hunting/2022/490 Mary Street.md",
-    "House Hunting/2022/490 Queen Street.md",
-    "House Hunting/2022/490 Margaret Street.md",
-    "House Hunting/2022/480b Margaret Street.md",
-    "House Hunting/2022/480 Parkland Boulevard.md",
-    "House Hunting/2022/480 Mary Street.md",
-    "House Hunting/2022/480 Margaret Street.md",
-    "House Hunting/2022/480 Charlotte Street.md",
-    "House Hunting/2022/480 Boundary Street.md",
-    "House Hunting/2022/475 Margaret Street.md",
     "Untitled.canvas"
   ]
 }
