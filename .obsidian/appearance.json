@@ -1,5 +1,4 @@
 {
-  "theme": "moonstone",
-  "baseFontSize": 16,
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system"
 }
