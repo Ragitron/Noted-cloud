@@ -11,15 +11,24 @@
             "id": "dd989ba825d2416a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e580ffeca963427b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading List/Reading List.md",
+                "file": "Finance/2023/Budget 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading List/Reading List.md",
+                "file": "Finance/2023/Budget 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +104,24 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd989ba825d2416a",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workbench-obsidian:Workbench": false
+    }
+  },
+  "active": "e580ffeca963427b",
   "lastOpenFiles": [
+    "Finance/2023/Budget 2023.md",
+    "Reading List/Reading List.md",
+    "Finance/2023/Budget 2023.csv",
+    "Finance/2023",
+    "Finance",
     "No Papers No Person/IgarTarasyuk_DL_2021.pdf",
     "No Papers No Person/IgarTarasyuk_EmploymentAgreement.pdf",
     "No Papers No Person/IgarTarasyuk_License.pdf",
@@ -104,7 +129,6 @@
     "Loose/Hire a Hubby Reference.md",
     "Loose/Gmail - Wotif travel confirmation - 21 Jan.pdf",
     "Loose/2603_212_margaret_entry.pdf",
-    "Reading List/Reading List.md",
     "Home Searches/Dethridge Street.md",
     "Home Searches/Untitled.md"
   ]
