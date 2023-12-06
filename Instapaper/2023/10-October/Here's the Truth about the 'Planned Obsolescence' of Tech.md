@@ -1,0 +1,1 @@
+![[Here’s the truth about the ‘planned obsolescence’ of tech - BBC Future.pdf#page=2&selection=95,20,97,41|Here’s the truth about the ‘planned obsolescence’ of tech - BBC Future, page 2]]

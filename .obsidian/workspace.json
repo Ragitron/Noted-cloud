@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "647b3dbed95d6aef",
+    "id": "1c24ad031b63df55",
     "type": "split",
     "children": [
       {
-        "id": "539254c1cc016000",
+        "id": "958762eabfa1be25",
         "type": "tabs",
         "children": [
           {
-            "id": "dd989ba825d2416a",
+            "id": "a793056d6458a97e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,28 +21,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/2023/Budget 2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Daily Notes/2023/12-Dec/2023-12-05.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "15fb06b98e8bbd19",
+    "id": "d75d34832c3f62f6",
     "type": "split",
     "children": [
       {
-        "id": "fa0fa7c5c6b5fd46",
+        "id": "a68af0d5f48c86f2",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e050da16199791",
+            "id": "c50ac7f18ffaed8c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "97a27f37ba2fc240",
+            "id": "b62aa745061a4074",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#productivity/tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,28 +65,44 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "94345bec0a3fa483",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "413d54680b332bfe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "right": {
-    "id": "7f78231226dfc4d2",
+    "id": "c2b203247aff76e4",
     "type": "split",
     "children": [
       {
-        "id": "01257362698d8277",
+        "id": "cc2dc43afc0b15fd",
         "type": "tabs",
         "children": [
           {
-            "id": "f4a4bb05f4156f56",
+            "id": "c9a7df720b1ad2dc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/2023/Budget 2023.md",
+                "file": "Daily Notes/2023/12-Dec/2023-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +112,50 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b11fd482f38a24c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Notes/2023/12-Dec/2023-12-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19bbe2db1e22b170",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d59cf4f6c9fb944b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2023/12-Dec/2023-12-05.md"
+              }
+            }
+          },
+          {
+            "id": "9d1de8faf93c73b2",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,26 +168,62 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "workbench-obsidian:Workbench": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "big-calendar:Big Calendar": false
     }
   },
-  "active": "e580ffeca963427b",
+  "active": "a793056d6458a97e",
   "lastOpenFiles": [
-    "Finance/2023/Budget 2023.md",
+    "Instapaper/2023/10-October/Why Culture Has Come to a Standstill - The New York Times.pdf",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech.html",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech - BBC Future.pdf",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/Ping.dotmetrics",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/idl.js.download",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/SiteEvent.dotmetrics",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/Ping(1).dotmetrics",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/Ping(2).dotmetrics",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43s0.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43nz.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43r9.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43xk.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43yx.jpg",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/setuid",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
+    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/cms-2-rubicon.min.js.download",
+    "Instapaper/2023/10-October/Here's the Truth about the 'Planned Obsolescence' of Tech.md",
     "Reading List/Reading List.md",
-    "Finance/2023/Budget 2023.csv",
-    "Finance/2023",
-    "Finance",
-    "No Papers No Person/IgarTarasyuk_DL_2021.pdf",
-    "No Papers No Person/IgarTarasyuk_EmploymentAgreement.pdf",
-    "No Papers No Person/IgarTarasyuk_License.pdf",
-    "Medicare/Medicare_Igar Tarasyuk.pdf",
-    "Loose/Hire a Hubby Reference.md",
-    "Loose/Gmail - Wotif travel confirmation - 21 Jan.pdf",
-    "Loose/2603_212_margaret_entry.pdf",
-    "Home Searches/Dethridge Street.md",
-    "Home Searches/Untitled.md"
+    "Tasks/Long-Term Tasks/This Year's Tasks.md",
+    "Daily Notes/2023/12-Dec/2023-12-05.md",
+    "Tasks/Task Overview.md",
+    "Tasks/Long-Term Tasks.md",
+    "Tasks/Next 6 Months.md",
+    "Tasks/Tasks This Month.md",
+    "Tasks/Check these Tasks.md",
+    "House Hunting/2024/house-hunting-2024.md",
+    "Daily Notes/2023/12-Dec/2023-12-04.md",
+    "README.md",
+    "Journal/Social-Calender/Phone Numbers.md",
+    "House Hunting/2021/Images/Pasted image 20210119005853.png",
+    "House Hunting/2021/Images/Pasted image 20210119005617.png",
+    "House Hunting/2021/Images/Pasted image 20210108071256.png",
+    "House Hunting/2021/Images/Pasted image 20210108071113.png",
+    "House Hunting/2021/Images/Pasted image 20210108070617.png",
+    "House Hunting/2021/Thomas Street.md",
+    "House Hunting/2021/Rode Road.md",
+    "House Hunting/2021/Mylne Street.md",
+    "House Hunting/2021/Princess Street, Kangaroo Point.md",
+    "House Hunting/2021/James Street - Fortitude Valley.md",
+    "House Hunting/2021/Kingsmill Street.md",
+    "House Hunting/2021/High Street.md",
+    "House Hunting/2021/Hall Street.md",
+    "House Hunting/2021/Dethridge Street.md",
+    "House Hunting/2021/Hamilton Road.md",
+    "House Hunting/2021/Davenport Street.md",
+    "House Hunting/2022/460 Margaret Street.md",
+    "Untitled.canvas"
   ]
 }
