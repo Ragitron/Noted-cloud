@@ -11,4 +11,4 @@ tags: productivity/tasks
 
 ![[Next 6 Months#Tasks This Month]]
 
-![[Long-Term Tasks]]
+![[Long-Term Tasks]].md)

@@ -2,8 +2,7 @@
   "dataview",
   "obsidian-epub-plugin",
   "typewriter-mode",
-  "obsidian-pandoc",
-  "markwhen",
+  "waypoint",
   "obsidian-html-plugin",
-  "waypoint"
+  "markwhen"
 ]

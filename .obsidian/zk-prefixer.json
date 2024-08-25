@@ -1,5 +1,5 @@
 {
-  "folder": "Daily Notes",
-  "format": "YYYY/MM-MMM/WW/yyyy-MM-DD-HHmm",
+  "folder": "Journal",
+  "format": "/[learnding]/YYYY/MM-MMM/WW/yyyy-MM-DD-HHmm",
   "template": "Templates/zettel-note"
 }

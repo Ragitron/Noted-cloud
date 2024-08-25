@@ -1,36 +1,35 @@
 {
   "main": {
-    "id": "1c24ad031b63df55",
+    "id": "0707d6167fa75fdf",
     "type": "split",
     "children": [
       {
-        "id": "4c62f5ef9e1a5a97",
+        "id": "d347f156ce251d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "53bb045e9f7cae20",
+            "id": "3faf1696889f6c3c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d75d34832c3f62f6",
+    "id": "2e2aef85c7acee63",
     "type": "split",
     "children": [
       {
-        "id": "a68af0d5f48c86f2",
+        "id": "c1ff9f4a0748c9c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c50ac7f18ffaed8c",
+            "id": "11ea4a85735ae18d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,12 +39,12 @@
             }
           },
           {
-            "id": "b62aa745061a4074",
+            "id": "745cc83ce9520dd9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#productivity/tags",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,15 +54,7 @@
             }
           },
           {
-            "id": "94345bec0a3fa483",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "413d54680b332bfe",
+            "id": "04df64fb76df9f1d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 300
   },
   "right": {
-    "id": "c2b203247aff76e4",
+    "id": "b682a53a9fedd813",
     "type": "split",
     "children": [
       {
-        "id": "cc2dc43afc0b15fd",
+        "id": "51efe43c751ec3df",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a7df720b1ad2dc",
+            "id": "60e0c0527389eb73",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2024/06-Jun/2024-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,19 +92,18 @@
             }
           },
           {
-            "id": "b11fd482f38a24c5",
+            "id": "adfb332c3c25d779",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2024/06-Jun/2024-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "19bbe2db1e22b170",
+            "id": "ad47e497b13b2b26",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -125,33 +114,14 @@
             }
           },
           {
-            "id": "d59cf4f6c9fb944b",
+            "id": "fa864a336651efa4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2024/06-Jun/2024-06-13.md"
-              }
-            }
-          },
-          {
-            "id": "9d1de8faf93c73b2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "6ab4254d2163e97d",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,115 +130,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "big-calendar:Big Calendar": false,
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
+      "markwhen:Create new Markwhen file": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "53bb045e9f7cae20",
+  "active": "3faf1696889f6c3c",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Instapaper/2023/10-October/Why Culture Has Come to a Standstill - The New York Times.pdf",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech.html",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech - BBC Future.pdf",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/Ping.dotmetrics",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/idl.js.download",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/SiteEvent.dotmetrics",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/Ping(1).dotmetrics",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/Ping(2).dotmetrics",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43s0.jpg",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43nz.jpg",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43r9.jpg",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43xk.jpg",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/p03y43yx.jpg",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/setuid",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
-    "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech_files/cms-2-rubicon.min.js.download",
-    "Instapaper/2023/10-October/Here's the Truth about the 'Planned Obsolescence' of Tech.md",
-    "Reading List/Reading List.md",
-    "Tasks/Long-Term Tasks/This Year's Tasks.md",
-    "Daily Notes/2023/12-Dec/2023-12-05.md",
-    "Tasks/Task Overview.md",
-    "Tasks/Long-Term Tasks.md",
-    "Tasks/Next 6 Months.md",
-    "Tasks/Tasks This Month.md",
-    "Tasks/Check these Tasks.md",
-    "House Hunting/2024/house-hunting-2024.md",
-    "Daily Notes/2023/12-Dec/2023-12-04.md",
-    "README.md",
-    "Journal/Social-Calender/Phone Numbers.md",
-    "House Hunting/2021/Images/Pasted image 20210119005853.png",
-    "House Hunting/2021/Images/Pasted image 20210119005617.png",
-    "House Hunting/2021/Images/Pasted image 20210108071256.png",
-    "House Hunting/2021/Images/Pasted image 20210108071113.png",
-    "House Hunting/2021/Images/Pasted image 20210108070617.png",
-    "House Hunting/2021/Thomas Street.md",
-    "House Hunting/2021/Rode Road.md",
-    "House Hunting/2021/Mylne Street.md",
-    "House Hunting/2021/Princess Street, Kangaroo Point.md",
-    "House Hunting/2021/James Street - Fortitude Valley.md",
-    "House Hunting/2021/Kingsmill Street.md",
-    "House Hunting/2021/High Street.md",
-    "House Hunting/2021/Hall Street.md",
-    "House Hunting/2021/Dethridge Street.md",
-    "House Hunting/2021/Hamilton Road.md",
-    "House Hunting/2021/Davenport Street.md",
-    "House Hunting/2022/460 Margaret Street.md",
-    "Untitled.canvas"
-=======
-    "Daily Notes/2024/06-Jun/25/2024-06-20-0704.md",
-    "Daily Notes/2024/06-Jun/25",
-    "Daily Notes/2024/06-Jun/2024-06-19.md",
-    "Journal/learnding/2024/relativity-of-wrong.md",
-    "Journal/learnding/2024/relativity-of-wrong.epub",
-    "Daily Notes/2024/06-Jun/2024-06-18.md",
-    "Daily Notes/2024/06-Jun/2024-06-21.md",
-    "Untitled.canvas",
-    "Daily Notes/2024/06-Jun/2024-06-17.md",
-    "Daily Notes/2024/06-Jun/2024-06-16.md",
-    "Daily Notes/2024/06-Jun/2024-06-15.md",
-    "Daily Notes/2024/06-Jun/2024-06-13.md",
-    "Journal/learnding/reading-list.md",
-    "Daily Notes/2024/06-Jun/2024-06-11.md",
-    "Daily Notes/2024/06-Jun/2024-06-03.md",
-    "Instapaper/read-today.md",
-    "Journal/new-method-common-place-books.md",
-    "Journal/new-method-common-place.pdf",
-    "Daily Notes/2024/06-Jun/2024-06-02.md",
-    "Daily Notes/2024/06-Jun",
-    "Daily Notes/2024/05-May/2024-05-24.md",
-    "Journal/new-method-common-place-books.epub",
-    "Daily Notes/2024/05-May/2024-05-31.md",
-    "Daily Notes/2024/05-May/2024-05-26.md",
-    "Daily Notes/2024/05-May/2024-05-22.md",
-    "Daily Notes/2024/05-May/2024-05-21.md",
-    "Daily Notes/2024/05-May/2024-05-14.md",
-    "Daily Notes/2024/05-May/2024-05-07.md",
-    "Daily Notes/2024/05-May/2024-05-02.md",
-    "Daily Notes/2024/05-May",
-    "Daily Notes/2024/04-Apr/2024-04-29.md",
-    "Daily Notes/2024/04-Apr/2024-04-23.md",
-    "Daily Notes/2024/04-Apr/2024-04-10.md",
-    "Daily Notes/2024/04-Apr",
-    "Journal/inspiration",
-    "Important Stuff/Paperwork/Print Confirmation _ Budget Truck Rental.pdf",
-    "whiteboards/65f4cf37-3462-4da4-aac4-5c8eb77df160.edn",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original.png",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(2).png",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(1).png",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(5).png",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(3).png",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(4).png",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/2021-NPR-TheAfghanArmyCollapsedInDays_files/kandahar_060216_training_dg11_custom-058ced99c99a10da826d74780627a1faa8ecdd6b-s1200.jpg",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/2021-NPR-TheAfghanArmyCollapsedInDays_files/kandahar_060216_training_dg10_22875138edit_custom-0d2602863b5e25e4ed83ae4991e057298646c11f-s1200.jpg",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/2021-NPR-TheAfghanArmyCollapsedInDays_files/gettyimages-1234760203_custom-ab84eb4b1fc31c54c66841fb8f00f524da67873e-s1200.jpg",
-    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/2021-NPR-TheAfghanArmyCollapsedInDays_files/gettyimages-1234760203_custom-ab84eb4b1fc31c54c66841fb8f00f524da67873e-s1100-c50.jpg"
->>>>>>> Stashed changes
+    "Daily Notes/2024/08-Aug/2024-08-22.md",
+    "Daily Notes/2024/08-Aug/2024-08-15.md",
+    "Daily Notes/2024/08-Aug/2024-08-12.md",
+    "Daily Notes/2024/08-Aug/2024-08-09.md",
+    "Daily Notes/2024/08-Aug",
+    "Daily Notes/2024/07-Jul/2024-07-30.md",
+    "Daily Notes/2024/images/Aramex-tracking-deets.jpg",
+    "Daily Notes/2024/07-Jul/2024-07-26.md",
+    "Daily Notes/2024/07-Jul/2024-07-25.md",
+    "Daily Notes/2024/07-Jul/2024-07-22.md",
+    "Important Stuff/Check-in _ Qantas.PDF",
+    "Daily Notes/2024/07-Jul/2024-07-19.md",
+    "Daily Notes/2024/07-Jul/2024-07-16.md",
+    "Instapaper/2024/07-July/2024-07-14-goldmansachs-ai-report.pdf",
+    "Instapaper/2024/07-July",
+    "Important Stuff/Download 250694701-e-ticket-52PK7B(2).pdf",
+    "Important Stuff/Check-in - Review _ Qantas.PDF",
+    "Daily Notes/2024/07-Jul/2024-07-15.md",
+    "Daily Notes/2024/07-Jul/2024-07-12.md",
+    "Daily Notes/2024/images/reddit-2024-07-12.jpg",
+    "Daily Notes/2024/images",
+    "Daily Notes/2024/07-Jul/2024-07-11.md",
+    "Daily Notes/2024/07-Jul/2024-07-10.md",
+    "Daily Notes/2024/06-Jun/2024-06-23.md",
+    "Templates/daily-note-v1.md",
+    "Daily Notes/2024/07-Jul/2024-07-09.md",
+    "Daily Notes/2024/07-Jul/2024-07-08.md",
+    "Journal/learnding/2024/07-Jul/27/2024-07-06-0741.md",
+    "Daily Notes/2024/07-Jul/2024-07-06.md",
+    "Daily Notes/2024/07-Jul/2024-07-03.md",
+    "Daily Notes/2024/07-Jul",
+    "Journal/learnding/2024/07-Jul/27/2024-07-01-0733.md",
+    "Journal/learnding/2024/07-Jul/27",
+    "Journal/learnding/2024/07-Jul",
+    "Daily Notes/2024/06-Jun/2024-06-28.md",
+    "Daily Notes/2024/06-Jun/2024-06-27.md",
+    "Daily Notes/2024/06-Jun/2024-06-25.md",
+    "Journal/learnding/2024/06-Jun/26/2024-06-25-0717.md"
   ]
 }
