@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "958762eabfa1be25",
+        "id": "4c62f5ef9e1a5a97",
         "type": "tabs",
         "children": [
           {
-            "id": "a793056d6458a97e",
+            "id": "53bb045e9f7cae20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023/12-Dec/2023-12-05.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023/12-Dec/2023-12-05.md",
+                "file": "Daily Notes/2024/06-Jun/2024-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023/12-Dec/2023-12-05.md",
+                "file": "Daily Notes/2024/06-Jun/2024-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023/12-Dec/2023-12-05.md"
+                "file": "Daily Notes/2024/06-Jun/2024-06-13.md"
               }
             }
           },
@@ -145,9 +141,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "6ab4254d2163e97d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -156,20 +160,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "big-calendar:Big Calendar": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "big-calendar:Big Calendar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a793056d6458a97e",
+  "active": "53bb045e9f7cae20",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Instapaper/2023/10-October/Why Culture Has Come to a Standstill - The New York Times.pdf",
     "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech.html",
     "Instapaper/2023/10-October/Here’s the truth about the ‘planned obsolescence’ of tech - BBC Future.pdf",
@@ -217,5 +221,54 @@
     "House Hunting/2021/Davenport Street.md",
     "House Hunting/2022/460 Margaret Street.md",
     "Untitled.canvas"
+=======
+    "Daily Notes/2024/06-Jun/25/2024-06-20-0704.md",
+    "Daily Notes/2024/06-Jun/25",
+    "Daily Notes/2024/06-Jun/2024-06-19.md",
+    "Journal/learnding/2024/relativity-of-wrong.md",
+    "Journal/learnding/2024/relativity-of-wrong.epub",
+    "Daily Notes/2024/06-Jun/2024-06-18.md",
+    "Daily Notes/2024/06-Jun/2024-06-21.md",
+    "Untitled.canvas",
+    "Daily Notes/2024/06-Jun/2024-06-17.md",
+    "Daily Notes/2024/06-Jun/2024-06-16.md",
+    "Daily Notes/2024/06-Jun/2024-06-15.md",
+    "Daily Notes/2024/06-Jun/2024-06-13.md",
+    "Journal/learnding/reading-list.md",
+    "Daily Notes/2024/06-Jun/2024-06-11.md",
+    "Daily Notes/2024/06-Jun/2024-06-03.md",
+    "Instapaper/read-today.md",
+    "Journal/new-method-common-place-books.md",
+    "Journal/new-method-common-place.pdf",
+    "Daily Notes/2024/06-Jun/2024-06-02.md",
+    "Daily Notes/2024/06-Jun",
+    "Daily Notes/2024/05-May/2024-05-24.md",
+    "Journal/new-method-common-place-books.epub",
+    "Daily Notes/2024/05-May/2024-05-31.md",
+    "Daily Notes/2024/05-May/2024-05-26.md",
+    "Daily Notes/2024/05-May/2024-05-22.md",
+    "Daily Notes/2024/05-May/2024-05-21.md",
+    "Daily Notes/2024/05-May/2024-05-14.md",
+    "Daily Notes/2024/05-May/2024-05-07.md",
+    "Daily Notes/2024/05-May/2024-05-02.md",
+    "Daily Notes/2024/05-May",
+    "Daily Notes/2024/04-Apr/2024-04-29.md",
+    "Daily Notes/2024/04-Apr/2024-04-23.md",
+    "Daily Notes/2024/04-Apr/2024-04-10.md",
+    "Daily Notes/2024/04-Apr",
+    "Journal/inspiration",
+    "Important Stuff/Paperwork/Print Confirmation _ Budget Truck Rental.pdf",
+    "whiteboards/65f4cf37-3462-4da4-aac4-5c8eb77df160.edn",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original.png",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(2).png",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(1).png",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(5).png",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(3).png",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/Inside the Biden White House as Kabul Fell_files/original(4).png",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/2021-NPR-TheAfghanArmyCollapsedInDays_files/kandahar_060216_training_dg11_custom-058ced99c99a10da826d74780627a1faa8ecdd6b-s1200.jpg",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/2021-NPR-TheAfghanArmyCollapsedInDays_files/kandahar_060216_training_dg10_22875138edit_custom-0d2602863b5e25e4ed83ae4991e057298646c11f-s1200.jpg",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/2021-NPR-TheAfghanArmyCollapsedInDays_files/gettyimages-1234760203_custom-ab84eb4b1fc31c54c66841fb8f00f524da67873e-s1200.jpg",
+    "Journal/learnding/2023/Afghanistan-Withdrawal/Articles/2021-NPR-TheAfghanArmyCollapsedInDays_files/gettyimages-1234760203_custom-ab84eb4b1fc31c54c66841fb8f00f524da67873e-s1100-c50.jpg"
+>>>>>>> Stashed changes
   ]
 }

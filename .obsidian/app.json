@@ -1,5 +1,9 @@
 {
   "livePreview": false,
-  "defaultViewMode": "preview",
-  "alwaysUpdateLinks": true
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "strictLineBreaks": true
 }

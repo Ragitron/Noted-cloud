@@ -1,19 +1,35 @@
 ---
 date: {{date}}
-tags: daily-note
+tags: daily-note/
 ---
 
 # {{date: dddd}}; Week {{date: WW}}
 
 
 
+### Today's Thoughts
+
+- What excited me today?
+- What drained me of energy?
+- What did I learn?
+
+
 ## TASKS
+
+
 
 ### Today's Due Tasks
 ```dataview
 TASK 
 WHERE typeof(due) = "date"
 WHERE due = date(this.file.name)
+SORT due ASC
+```
+```dataview
+TASK 
+WHERE typeof(due) = "date"
+WHERE due < date(this.file.name)
+WHERE !completed
 SORT due ASC
 ```
 

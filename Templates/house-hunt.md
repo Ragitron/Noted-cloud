@@ -1,11 +1,16 @@
-[price::]
-[rooms::]
-[car::]
-[burb::]
+---
+aliases:
+address: 
+burb: 
+tags: house
+price: 
+available: 
+rooms: 
+bath: 
+garage: 
+realtor: 
+shortlist: 
+---
 
-[avail::]
 
-- [ ] next inspection [inspect::] 
-
-(addit::)
-[shortlist:: ]
+- [x] [inspection:: ]

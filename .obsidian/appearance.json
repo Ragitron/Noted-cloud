@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "theme": "system"
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "cssTheme": "Pisum"
 }
